@@ -1,6 +1,7 @@
 # US_Supermarket_Sales_PowerBI
 Interactive dashboard using Power BI to provide insights on US Supermarket Sales.
 
+## Overview
 A dataset of US Supermarket Sales has been used which is taken from Kaggle. The data are cleaned first, then different insights are created in Power BI. Below are the column names that the dataset has:
 - Row ID	
 - Order ID	
